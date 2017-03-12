@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "120053126002",
+    "firebase_url": "https://taxi-firebase-7077c.firebaseio.com",
+    "project_id": "taxi-firebase-7077c",
+    "storage_bucket": "taxi-firebase-7077c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120053126002:android:b4e452e2b175012d",
+        "android_client_info": {
+          "package_name": "com.andresflores.taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120053126002-d7g3u9cq0120uv8u73dtuirubl2l0be8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andresflores.taxi",
+            "certificate_hash": "7b1bc69dceaf4a8b03b1268d055fd33ebc401063"
+          }
+        },
+        {
+          "client_id": "120053126002-9g7bocg8pan2t132a0kv61j58cher2vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCEmIJiXQE5_ybb0zzG1-svLGh8aEn4Nc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120053126002-9g7bocg8pan2t132a0kv61j58cher2vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
